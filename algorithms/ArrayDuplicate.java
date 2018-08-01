@@ -43,6 +43,19 @@ public class ArrayDuplicate {
 	
 
 
+/**
+ * input sample 
+ * 
+ * 	
+ *  7
+	1 2 1 3 6 3 6
+	
+	
+	output
+	1
+	3
+	6
 
+ */
 	
 }
